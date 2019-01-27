@@ -4,22 +4,32 @@ from __future__ import division
 from __future__ import print_function
 from __future__ import unicode_literals
 
-import logging
-import requests
-import json
-from rasa_core_sdk import Action
+import IPython
+from IPython.display import clear_output, HTML, display
+from rasa_core.agent import Agent
+from rasa_core.interpreter import RasaNLUInterpreter
+import time
 
-logger = logging.getLogger(__name__)
+interpreter = RasaNLUInterpreter('models/current/nlu')
+messages = ["Hi! you can chat in this window. Type 'stop' to end the conversation."]
+agent = Agent.load('models/current/dialogue', interpreter=interpreter)
 
 
-class ActionJoke(Action):
-    def name(self):
-        # define the name of the action which can then be included in training stories
-        return "action_joke"
+def run(self, dispatcher, tracker, domain):
+    # what your action should do
+    dispatcher.utter_message(messages)  # send the message back to the user
+    return []
 
-    def run(self, dispatcher, tracker, domain):
-        # what your action should do
-        request = json.loads(requests.get('https://api.chucknorris.io/jokes/random').text)  # make an api call
-        joke = request['value']  # extract a joke from returned json response
-        dispatcher.utter_message(joke)  # send the message back to the user
-        return []
+
+while True:
+    clear_output()
+    display(run(messages))
+    time.sleep(0.3)
+    a = input()
+    messages.append(a)
+    if a == 'stop':
+        break
+    responses = agent.handle_message(a)
+    for r in responses:
+        messages.append(r.get("text"))
+

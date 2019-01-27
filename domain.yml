@@ -22,6 +22,10 @@ actions:
 - utter_greet
 - utter_goodbye
 - action_joke
+- utter_cheer_up
+- utter_did_that_help
+- utter_happy
+- utter_unclear
 
 
 templates:
@@ -30,6 +34,15 @@ templates:
 
   utter_greet:
   - text: "Nice to you meet you {name}. How can I help?"
+
+  utter_did_that_help:
+    - text: "Did that help you?"
+
+  utter_happy:
+    - text: "Awww, that's cute"
+
+  utter_unclear:
+    - text: "I am not sure what you are aiming for."
 
   utter_goodbye:
   - text: "Talk to you later!"
