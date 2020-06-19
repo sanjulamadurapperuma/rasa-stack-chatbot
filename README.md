@@ -94,6 +94,6 @@ Project Link: [https://github.com/sanjulamadurapperuma/rasa-stack-chatbot](https
 [issues-shield]: https://img.shields.io/github/issues/sanjulamadurapperuma/rasa-stack-chatbot.svg?style=flat-square
 [issues-url]: https://github.com/sanjulamadurapperuma/rasa-stack-chatbot/issues
 [license-shield]: https://img.shields.io/github/license/sanjulamadurapperuma/rasa-stack-chatbot.svg?style=flat-square
-[license-url]: https://github.com/sanjulamadurapperuma/rasa-stack-chatbot/blob/master/LICENSE.txt
+[license-url]: https://github.com/sanjulamadurapperuma/rasa-stack-chatbot/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/sanjula-madurapperuma/
