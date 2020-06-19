@@ -19,7 +19,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/sanjulamadurapperuma/rasa_stack_chatbot">
+  <a href="https://github.com/sanjulamadurapperuma/rasa-stack-chatbot">
     <img src="images/logo.png" alt="Logo" width="120" height="120">
   </a>
 
@@ -31,10 +31,10 @@
     <!--<a href=""><strong>Explore the docs »</strong></a>-->
     <br />
     <br />
-    <!--<a href="https://github.com/sanjulamadurapperuma/rasa_stack_chatbot">View Demo</a>-->
-    <a href="https://github.com/sanjulamadurapperuma/rasa_stack_chatbot/issues">Report Bug</a>
+    <!--<a href="https://github.com/sanjulamadurapperuma/rasa-stack-chatbot">View Demo</a>-->
+    <a href="https://github.com/sanjulamadurapperuma/rasa-stack-chatbot/issues">Report Bug</a>
     ·
-    <a href="https://github.com/sanjulamadurapperuma/rasa_stack_chatbot/issues">Request Feature</a>
+    <a href="https://github.com/sanjulamadurapperuma/rasa-stack-chatbot/issues">Request Feature</a>
   </p>
 </p>
 
@@ -81,19 +81,19 @@ Distributed under the Apache License 2.0. See `LICENSE` for more information.
 
 Sanjula Madurapperuma - [@s_arachchige](https://twitter.com/s_arachchige) - [Medium](https://medium.com/@sanjulamadurapperuma)
 
-Project Link: [https://github.com/sanjulamadurapperuma/rasa_stack_chatbot](https://github.com/sanjulamadurapperuma/rasa_stack_chatbot)
+Project Link: [https://github.com/sanjulamadurapperuma/rasa-stack-chatbot](https://github.com/sanjulamadurapperuma/rasa-stack-chatbot)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/sanjulamadurapperuma/rasa_stack_chatbot.svg?style=flat-square
-[contributors-url]: https://github.com/sanjulamadurapperuma/rasa_stack_chatbot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sanjulamadurapperuma/rasa_stack_chatbot.svg?style=flat-square
-[forks-url]: https://github.com/sanjulamadurapperuma/rasa_stack_chatbot/network/members
-[stars-shield]: https://img.shields.io/github/stars/sanjulamadurapperuma/rasa_stack_chatbot.svg?style=flat-square
-[stars-url]: https://github.com/sanjulamadurapperuma/rasa_stack_chatbot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sanjulamadurapperuma/rasa_stack_chatbot.svg?style=flat-square
-[issues-url]: https://github.com/sanjulamadurapperuma/rasa_stack_chatbot/issues
-[license-shield]: https://img.shields.io/github/license/sanjulamadurapperuma/rasa_stack_chatbot.svg?style=flat-square
-[license-url]: https://github.com/sanjulamadurapperuma/rasa_stack_chatbot/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/sanjulamadurapperuma/rasa-stack-chatbot.svg?style=flat-square
+[contributors-url]: https://github.com/sanjulamadurapperuma/rasa-stack-chatbot/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/sanjulamadurapperuma/rasa-stack-chatbot.svg?style=flat-square
+[forks-url]: https://github.com/sanjulamadurapperuma/rasa-stack-chatbot/network/members
+[stars-shield]: https://img.shields.io/github/stars/sanjulamadurapperuma/rasa-stack-chatbot.svg?style=flat-square
+[stars-url]: https://github.com/sanjulamadurapperuma/rasa-stack-chatbot/stargazers
+[issues-shield]: https://img.shields.io/github/issues/sanjulamadurapperuma/rasa-stack-chatbot.svg?style=flat-square
+[issues-url]: https://github.com/sanjulamadurapperuma/rasa-stack-chatbot/issues
+[license-shield]: https://img.shields.io/github/license/sanjulamadurapperuma/rasa-stack-chatbot.svg?style=flat-square
+[license-url]: https://github.com/sanjulamadurapperuma/rasa-stack-chatbot/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/sanjula-madurapperuma/
