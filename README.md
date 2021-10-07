@@ -13,7 +13,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![Apache License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
@@ -55,7 +55,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 -->
 
-A project to demonstrate the capability of chatbots using Rasa NLP
+A project to demonstrate the capability of chatbots using Rasa NLP.
 
 <!-- CONTRIBUTING -->
 
