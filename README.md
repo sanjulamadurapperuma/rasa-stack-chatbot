@@ -61,7 +61,7 @@ A project to demonstrate the capability of chatbots using Rasa NLP.
 
 ## Contributing
 
-Contributions make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are appreciated.
+Contributions make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are appreciated.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/NewFeature`)
@@ -79,7 +79,7 @@ Distributed under the Apache License 2.0. See `LICENSE` for more information.
 
 ## Contact
 
-Sanjula Madurapperuma - [@s_arachchige](https://twitter.com/s_arachchige) - [Medium](https://medium.com/@sanjulamadurapperuma)
+Sanjula Madurapperuma - [Medium](https://medium.com/@sanjulamadurapperuma)
 
 Project Link: [https://github.com/sanjulamadurapperuma/rasa-stack-chatbot](https://github.com/sanjulamadurapperuma/rasa-stack-chatbot)
 
